@@ -21,3 +21,11 @@ Real time software\
 SQL and database management\
 Familiar with the most important operating systems: MacOS, Windows and Linux\
 Can work extra hours and meet deadlines.
+
+**Experience**
+
+Junior Software development Engineer\
+Some Communication Inc\
+2019 March - 2019 September\
+• Build windows applications using C++.\
+• Perform special requests for different projects.\
