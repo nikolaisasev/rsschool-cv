@@ -29,3 +29,19 @@ Some Communication Inc\
 2019 March - 2019 September\
 • Build windows applications using C++.\
 • Perform special requests for different projects.\
+
+**Education**
+
+2022\
+BSUIR\ 
+Specialty: UX Engeneering
+
+**Courses**
+
+2018\
+Cursera\
+Specialty: Basic of C++ development
+
+2015\
+Java developer training guide\
+Belarus High Technologies Park, Minsk
